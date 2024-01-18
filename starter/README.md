@@ -1,3 +1,14 @@
 # Purpose of this Folder
 
-This folder should contain the scaffolded project files to get a student started on their project. This repo will be added to the Classroom for students to use, so please do not have any solutions in this folder.
+1. Open Azure CloudShell
+2. Change your CloudShell shell to `Bash`
+2. `git clone https://github.com/udacity/azure-api-management`
+3. Navigate to the project starter folder `cd azure-api-management/starter`
+4. Run `./setup.sh`
+
+
+
+
+
+
+11. Cleanup. Search for Resource groups and delete the resource group `DefaultResourceGroup-CUS`
