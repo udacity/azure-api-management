@@ -53,6 +53,7 @@ git remote add $REMOTE_NAME $GIT_URL
 
 printf "\nGit add...(6/7)\n\n"
 
+git checkout master
 git add .
 git commit -m "initial revision"
 
